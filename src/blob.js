@@ -1,0 +1,1 @@
+export const blob = 'https://jsonblob.com/api/b395205d-59a6-11eb-836c-1ba6029b9ba6';
